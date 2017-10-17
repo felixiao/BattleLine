@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: 8f5a9bd19985b9f49a75946bd29634fe
+timeCreated: 1467203796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blue_1
+    21300002: Blue_2
+    21300004: Blue_3
+    21300006: Blue_4
+    21300008: Blue_5
+    21300010: Blue_6
+    21300012: Blue_7
+    21300014: Blue_8
+    21300016: Blue_9
+    21300018: Blue_10
+    21300020: BattleLine_10
+    21300022: BattleLine_11
+    21300024: Red_1
+    21300026: Red_2
+    21300028: Red_3
+    21300030: Red_4
+    21300032: Red_5
+    21300034: Red_6
+    21300036: Red_7
+    21300038: Red_8
+    21300040: Red_9
+    21300042: Red_10
+    21300044: BattleLine_22
+    21300046: BattleLine_23
+    21300048: Green_1
+    21300050: Green_2
+    21300052: Green_3
+    21300054: Green_4
+    21300056: Green_5
+    21300058: Green_6
+    21300060: Green_7
+    21300062: Green_8
+    21300064: Green_9
+    21300066: Green_10
+    21300068: BattleLine_34
+    21300070: BattleLine_35
+    21300072: Cyan_1
+    21300074: Cyan_2
+    21300076: Cyan_3
+    21300078: Cyan_4
+    21300080: Cyan_5
+    21300082: Cyan_6
+    21300084: Cyan_7
+    21300086: Cyan_8
+    21300088: Cyan_9
+    21300090: Cyan_10
+    21300092: BattleLine_46
+    21300094: BattleLine_47
+    21300096: Yellow_1
+    21300098: Yellow_2
+    21300100: Yellow_3
+    21300102: Yellow_4
+    21300104: Yellow_5
+    21300106: Yellow_6
+    21300108: Yellow_7
+    21300110: Yellow_8
+    21300112: Yellow_9
+    21300114: Yellow_10
+    21300116: BattleLine_58
+    21300118: BattleLine_59
+    21300120: Magenta_1
+    21300122: Magenta_2
+    21300124: Magenta_3
+    21300126: Magenta_4
+    21300128: Magenta_5
+    21300130: Magenta_6
+    21300132: Magenta_7
+    21300134: Magenta_8
+    21300136: Magenta_9
+    21300138: Magenta_10
+    21300140: BattleLine_70
+    21300142: BattleLine_71
+    21300144: Blues_1
+    21300146: Blues_2
+    21300148: Blues_3
+    21300150: Blues_4
+    21300152: Blues_5
+    21300154: Blues_6
+    21300156: Blues_7
+    21300158: Blues_8
+    21300160: Blues_9
+    21300162: Blues_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blue_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.666626}
+        - {x: -85.5, y: -119.333374}
+        - {x: 85.5, y: -119.333374}
+        - {x: 85.5, y: 120.666626}
+    - name: Blue_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 120.666626}
+        - {x: -85.33333, y: -119.333374}
+        - {x: 86.66667, y: -119.333374}
+        - {x: 86.66667, y: 120.666626}
+    - name: Blue_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 120.666626}
+        - {x: -85.16666, y: -119.333374}
+        - {x: 85.83334, y: -119.333374}
+        - {x: 85.83334, y: 120.666626}
+    - name: Blue_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.666626}
+        - {x: -85.5, y: -119.333374}
+        - {x: 85.5, y: -119.333374}
+        - {x: 85.5, y: 120.666626}
+    - name: Blue_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 120.666626}
+        - {x: -85.33331, y: -119.333374}
+        - {x: 86.66669, y: -119.333374}
+        - {x: 86.66669, y: 120.666626}
+    - name: Blue_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 120.666626}
+        - {x: -85.16669, y: -119.333374}
+        - {x: 85.83331, y: -119.333374}
+        - {x: 85.83331, y: 120.666626}
+    - name: Blue_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.666626}
+        - {x: -85.5, y: -119.333374}
+        - {x: 85.5, y: -119.333374}
+        - {x: 85.5, y: 120.666626}
+    - name: Blue_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.666626}
+        - {x: -85.333374, y: -119.333374}
+        - {x: 86.666626, y: -119.333374}
+        - {x: 86.666626, y: 120.666626}
+    - name: Blue_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.666626}
+        - {x: -85.166626, y: -119.333374}
+        - {x: 85.833374, y: -119.333374}
+        - {x: 85.833374, y: 120.666626}
+    - name: Blue_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.666626}
+        - {x: -85.5, y: -119.333374}
+        - {x: 85.5, y: -119.333374}
+        - {x: 85.5, y: 120.666626}
+    - name: BattleLine_10
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.666626}
+        - {x: -85.333374, y: -119.333374}
+        - {x: 86.666626, y: -119.333374}
+        - {x: 86.666626, y: 120.666626}
+    - name: BattleLine_11
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 5250
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.666626}
+        - {x: -85.166626, y: -119.333374}
+        - {x: 85.833374, y: -119.333374}
+        - {x: 85.833374, y: 120.666626}
+    - name: Red_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.73334}
+        - {x: -85.5, y: -119.26666}
+        - {x: 85.5, y: -119.26666}
+        - {x: 85.5, y: 120.73334}
+    - name: Red_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 120.73334}
+        - {x: -85.33333, y: -119.26666}
+        - {x: 86.66667, y: -119.26666}
+        - {x: 86.66667, y: 120.73334}
+    - name: Red_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 120.73334}
+        - {x: -85.16666, y: -119.26666}
+        - {x: 85.83334, y: -119.26666}
+        - {x: 85.83334, y: 120.73334}
+    - name: Red_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.73334}
+        - {x: -85.5, y: -119.26666}
+        - {x: 85.5, y: -119.26666}
+        - {x: 85.5, y: 120.73334}
+    - name: Red_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 120.73334}
+        - {x: -85.33331, y: -119.26666}
+        - {x: 86.66669, y: -119.26666}
+        - {x: 86.66669, y: 120.73334}
+    - name: Red_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 120.73334}
+        - {x: -85.16669, y: -119.26666}
+        - {x: 85.83331, y: -119.26666}
+        - {x: 85.83331, y: 120.73334}
+    - name: Red_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.73334}
+        - {x: -85.5, y: -119.26666}
+        - {x: 85.5, y: -119.26666}
+        - {x: 85.5, y: 120.73334}
+    - name: Red_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.73334}
+        - {x: -85.333374, y: -119.26666}
+        - {x: 86.666626, y: -119.26666}
+        - {x: 86.666626, y: 120.73334}
+    - name: Red_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.73334}
+        - {x: -85.166626, y: -119.26666}
+        - {x: 85.833374, y: -119.26666}
+        - {x: 85.833374, y: 120.73334}
+    - name: Red_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.73334}
+        - {x: -85.5, y: -119.26666}
+        - {x: 85.5, y: -119.26666}
+        - {x: 85.5, y: 120.73334}
+    - name: BattleLine_22
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.73334}
+        - {x: -85.333374, y: -119.26666}
+        - {x: 86.666626, y: -119.26666}
+        - {x: 86.666626, y: 120.73334}
+    - name: BattleLine_23
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 4200
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.73334}
+        - {x: -85.166626, y: -119.26666}
+        - {x: 85.833374, y: -119.26666}
+        - {x: 85.833374, y: 120.73334}
+    - name: Green_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.79999}
+        - {x: -85.5, y: -119.20001}
+        - {x: 85.5, y: -119.20001}
+        - {x: 85.5, y: 120.79999}
+    - name: Green_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 120.79999}
+        - {x: -85.33333, y: -119.20001}
+        - {x: 86.66667, y: -119.20001}
+        - {x: 86.66667, y: 120.79999}
+    - name: Green_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 120.79999}
+        - {x: -85.16666, y: -119.20001}
+        - {x: 85.83334, y: -119.20001}
+        - {x: 85.83334, y: 120.79999}
+    - name: Green_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.79999}
+        - {x: -85.5, y: -119.20001}
+        - {x: 85.5, y: -119.20001}
+        - {x: 85.5, y: 120.79999}
+    - name: Green_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 120.79999}
+        - {x: -85.33331, y: -119.20001}
+        - {x: 86.66669, y: -119.20001}
+        - {x: 86.66669, y: 120.79999}
+    - name: Green_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 120.79999}
+        - {x: -85.16669, y: -119.20001}
+        - {x: 85.83331, y: -119.20001}
+        - {x: 85.83331, y: 120.79999}
+    - name: Green_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.79999}
+        - {x: -85.5, y: -119.20001}
+        - {x: 85.5, y: -119.20001}
+        - {x: 85.5, y: 120.79999}
+    - name: Green_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.79999}
+        - {x: -85.333374, y: -119.20001}
+        - {x: 86.666626, y: -119.20001}
+        - {x: 86.666626, y: 120.79999}
+    - name: Green_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.79999}
+        - {x: -85.166626, y: -119.20001}
+        - {x: 85.833374, y: -119.20001}
+        - {x: 85.833374, y: 120.79999}
+    - name: Green_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.79999}
+        - {x: -85.5, y: -119.20001}
+        - {x: 85.5, y: -119.20001}
+        - {x: 85.5, y: 120.79999}
+    - name: BattleLine_34
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.79999}
+        - {x: -85.333374, y: -119.20001}
+        - {x: 86.666626, y: -119.20001}
+        - {x: 86.666626, y: 120.79999}
+    - name: BattleLine_35
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 3150
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.79999}
+        - {x: -85.166626, y: -119.20001}
+        - {x: 85.833374, y: -119.20001}
+        - {x: 85.833374, y: 120.79999}
+    - name: Cyan_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.86667}
+        - {x: -85.5, y: -119.13333}
+        - {x: 85.5, y: -119.13333}
+        - {x: 85.5, y: 120.86667}
+    - name: Cyan_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 120.86667}
+        - {x: -85.33333, y: -119.13333}
+        - {x: 86.66667, y: -119.13333}
+        - {x: 86.66667, y: 120.86667}
+    - name: Cyan_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 120.86667}
+        - {x: -85.16666, y: -119.13333}
+        - {x: 85.83334, y: -119.13333}
+        - {x: 85.83334, y: 120.86667}
+    - name: Cyan_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.86667}
+        - {x: -85.5, y: -119.13333}
+        - {x: 85.5, y: -119.13333}
+        - {x: 85.5, y: 120.86667}
+    - name: Cyan_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 120.86667}
+        - {x: -85.33331, y: -119.13333}
+        - {x: 86.66669, y: -119.13333}
+        - {x: 86.66669, y: 120.86667}
+    - name: Cyan_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 120.86667}
+        - {x: -85.16669, y: -119.13333}
+        - {x: 85.83331, y: -119.13333}
+        - {x: 85.83331, y: 120.86667}
+    - name: Cyan_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.86667}
+        - {x: -85.5, y: -119.13333}
+        - {x: 85.5, y: -119.13333}
+        - {x: 85.5, y: 120.86667}
+    - name: Cyan_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.86667}
+        - {x: -85.333374, y: -119.13333}
+        - {x: 86.666626, y: -119.13333}
+        - {x: 86.666626, y: 120.86667}
+    - name: Cyan_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.86667}
+        - {x: -85.166626, y: -119.13333}
+        - {x: 85.833374, y: -119.13333}
+        - {x: 85.833374, y: 120.86667}
+    - name: Cyan_10
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.592896, y: 120.86667}
+        - {x: -85.592896, y: -119.13333}
+        - {x: 86.407104, y: -119.13333}
+        - {x: 86.407104, y: 120.86667}
+    - name: BattleLine_46
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.86667}
+        - {x: -85.333374, y: -119.13333}
+        - {x: 86.666626, y: -119.13333}
+        - {x: 86.666626, y: 120.86667}
+    - name: BattleLine_47
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 2100
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.86667}
+        - {x: -85.166626, y: -119.13333}
+        - {x: 85.833374, y: -119.13333}
+        - {x: 85.833374, y: 120.86667}
+    - name: Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.933334}
+        - {x: -85.5, y: -119.066666}
+        - {x: 85.5, y: -119.066666}
+        - {x: 85.5, y: 120.933334}
+    - name: Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 120.933334}
+        - {x: -85.33333, y: -119.066666}
+        - {x: 86.66667, y: -119.066666}
+        - {x: 86.66667, y: 120.933334}
+    - name: Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 120.933334}
+        - {x: -85.16666, y: -119.066666}
+        - {x: 85.83334, y: -119.066666}
+        - {x: 85.83334, y: 120.933334}
+    - name: Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.933334}
+        - {x: -85.5, y: -119.066666}
+        - {x: 85.5, y: -119.066666}
+        - {x: 85.5, y: 120.933334}
+    - name: Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 120.933334}
+        - {x: -85.33331, y: -119.066666}
+        - {x: 86.66669, y: -119.066666}
+        - {x: 86.66669, y: 120.933334}
+    - name: Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 120.933334}
+        - {x: -85.16669, y: -119.066666}
+        - {x: 85.83331, y: -119.066666}
+        - {x: 85.83331, y: 120.933334}
+    - name: Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.933334}
+        - {x: -85.5, y: -119.066666}
+        - {x: 85.5, y: -119.066666}
+        - {x: 85.5, y: 120.933334}
+    - name: Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.933334}
+        - {x: -85.333374, y: -119.066666}
+        - {x: 86.666626, y: -119.066666}
+        - {x: 86.666626, y: 120.933334}
+    - name: Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.933334}
+        - {x: -85.166626, y: -119.066666}
+        - {x: 85.833374, y: -119.066666}
+        - {x: 85.833374, y: 120.933334}
+    - name: Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 120.933334}
+        - {x: -85.5, y: -119.066666}
+        - {x: 85.5, y: -119.066666}
+        - {x: 85.5, y: 120.933334}
+    - name: BattleLine_58
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 120.933334}
+        - {x: -85.333374, y: -119.066666}
+        - {x: 86.666626, y: -119.066666}
+        - {x: 86.666626, y: 120.933334}
+    - name: BattleLine_59
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 1050
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 120.933334}
+        - {x: -85.166626, y: -119.066666}
+        - {x: 85.833374, y: -119.066666}
+        - {x: 85.833374, y: 120.933334}
+    - name: Magenta_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 119.5}
+        - {x: -85.5, y: -119.5}
+        - {x: 85.5, y: -119.5}
+        - {x: 85.5, y: 119.5}
+    - name: Magenta_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33333, y: 119.5}
+        - {x: -85.33333, y: -119.5}
+        - {x: 86.66667, y: -119.5}
+        - {x: 86.66667, y: 119.5}
+    - name: Magenta_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 119.5}
+        - {x: -85.16666, y: -119.5}
+        - {x: 85.83334, y: -119.5}
+        - {x: 85.83334, y: 119.5}
+    - name: Magenta_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 119.5}
+        - {x: -85.5, y: -119.5}
+        - {x: 85.5, y: -119.5}
+        - {x: 85.5, y: 119.5}
+    - name: Magenta_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 119.5}
+        - {x: -85.33331, y: -119.5}
+        - {x: 86.66669, y: -119.5}
+        - {x: 86.66669, y: 119.5}
+    - name: Magenta_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 119.5}
+        - {x: -85.16669, y: -119.5}
+        - {x: 85.83331, y: -119.5}
+        - {x: 85.83331, y: 119.5}
+    - name: Magenta_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 119.5}
+        - {x: -85.5, y: -119.5}
+        - {x: 85.5, y: -119.5}
+        - {x: 85.5, y: 119.5}
+    - name: Magenta_8
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.42627, y: 119.5}
+        - {x: -85.42627, y: -119.5}
+        - {x: 85.57373, y: -119.5}
+        - {x: 85.57373, y: 119.5}
+    - name: Magenta_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 119.5}
+        - {x: -85.166626, y: -119.5}
+        - {x: 85.833374, y: -119.5}
+        - {x: 85.833374, y: 119.5}
+    - name: Magenta_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 119.5}
+        - {x: -85.5, y: -119.5}
+        - {x: 85.5, y: -119.5}
+        - {x: 85.5, y: 119.5}
+    - name: BattleLine_70
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 119.5}
+        - {x: -85.333374, y: -119.5}
+        - {x: 86.666626, y: -119.5}
+        - {x: 86.666626, y: 119.5}
+    - name: BattleLine_71
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 0
+        width: 750
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 119.5}
+        - {x: -85.166626, y: -119.5}
+        - {x: 85.833374, y: -119.5}
+        - {x: 85.833374, y: 119.5}
+    - name: Blues_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 58.322266}
+        - {x: -85.5, y: -56.677734}
+        - {x: 85.5, y: -56.677734}
+        - {x: 85.5, y: 58.322266}
+    - name: Blues_2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.28844, y: 58.322266}
+        - {x: -85.28844, y: -56.677734}
+        - {x: 85.71156, y: -56.677734}
+        - {x: 85.71156, y: 58.322266}
+    - name: Blues_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16666, y: 58.322266}
+        - {x: -85.16666, y: -56.677734}
+        - {x: 85.83334, y: -56.677734}
+        - {x: 85.83334, y: 58.322266}
+    - name: Blues_4
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 58.322266}
+        - {x: -85.5, y: -56.677734}
+        - {x: 85.5, y: -56.677734}
+        - {x: 85.5, y: 58.322266}
+    - name: Blues_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33331, y: 58.322266}
+        - {x: -85.33331, y: -56.677734}
+        - {x: 86.66669, y: -56.677734}
+        - {x: 86.66669, y: 58.322266}
+    - name: Blues_6
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 58.322266}
+        - {x: -85.16669, y: -56.677734}
+        - {x: 85.83331, y: -56.677734}
+        - {x: 85.83331, y: 58.322266}
+    - name: Blues_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 58.322266}
+        - {x: -85.5, y: -56.677734}
+        - {x: 85.5, y: -56.677734}
+        - {x: 85.5, y: 58.322266}
+    - name: Blues_8
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 58.322266}
+        - {x: -85.333374, y: -56.677734}
+        - {x: 86.666626, y: -56.677734}
+        - {x: 86.666626, y: 58.322266}
+    - name: Blues_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.166626, y: 58.322266}
+        - {x: -85.166626, y: -56.677734}
+        - {x: 85.833374, y: -56.677734}
+        - {x: 85.833374, y: 58.322266}
+    - name: Blues_10
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 5800
+        width: 750
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 58.322266}
+        - {x: -85.5, y: -56.677734}
+        - {x: 85.5, y: -56.677734}
+        - {x: 85.5, y: 58.322266}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
